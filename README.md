@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @holorunfemi
-- 👀 I’m interested in data analytics
+- 👋 Hi, I’m Olorunfemi Taiwo S.
+- 👀 I’m a data analyst
 - 🌱 I’m currently learning Excel, R and Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
