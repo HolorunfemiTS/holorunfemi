@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @holorunfemi
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning excel, sql and r
+- 🌱 I’m currently learning Excel, R and Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
